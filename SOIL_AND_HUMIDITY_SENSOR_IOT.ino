@@ -17,12 +17,12 @@ boolean state = false;
 
 DHT dht(DHTPIN, DHTTYPE);
 
-char auth[] = "xIYRLw6_oTeyFx75ZzWpBcoJy0qubOFV";
+char auth[] = "YOUR_AUTH_TOKEN";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "AMRAT123";
-char pass[] = "techo123";
+char ssid[] = "YOUR_WIFI_SSID";
+char pass[] = "YOUR_WIFI_PASSWORD";
 
 
 void setup() {
