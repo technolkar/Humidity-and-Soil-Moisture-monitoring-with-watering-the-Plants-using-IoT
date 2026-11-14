@@ -88,7 +88,7 @@ void loop() {
 
 ## 🌱 Related work
 
-The same idea also went into the **Technolkar smart-agriculture display** shown below. Related projects:
+The same idea also went into the **Technolkar smart-agriculture soil condition monitoring display** shown below. Related projects:
 the [**offline mesh farm monitor**](https://github.com/technolkar/Mesh-Networking-for-smart-agriculture-system-without-Internet) and the [**solar agriculture robot**](https://github.com/technolkar/Multipurpose-Agriculture-Robot-).
 
 <div align="center">
